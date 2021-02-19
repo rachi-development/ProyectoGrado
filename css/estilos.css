@@ -1,0 +1,29 @@
+.abs-center-x {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.carousel-inner img {
+  width: 100%;
+  
+}
+
+.iconos-redes-header{
+    width: 20px;
+    margin: 10px 5px;
+}
+
+
+.logotipo{
+    width: 55px;
+}
+
+.navbar{
+    background-color: #e3f2fd;
+}
+
+#textfooter{
+    color: white;
+}
+/* SI NO FUNCIONA EL CSS PULSAR CTRL + F5*/
